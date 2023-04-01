@@ -1,1 +1,1 @@
-FROM docker.io/library/1.23-alpine-slim
+FROM docker.io/library/nginx:1.23-alpine-slim
